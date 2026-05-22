@@ -49,8 +49,8 @@ Display all edge-detected images for comparison.
 
 ## Developed By
 
-- **Name:** ____________________________  
-- **Register No:** ______________________  
+- **Name:** KIRTHICK SHA R 
+- **Register No:** 212224230124  
 
 ---
 
